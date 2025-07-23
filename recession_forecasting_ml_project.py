@@ -9,8 +9,8 @@ Original file is located at
 # Machine Learning to Forecast Recessions
 This notebook implements a complete pipeline for forecasting economic recessions using machine learning.
 It includes data preprocessing, feature engineering, model training, evaluation, and interpretability.
-Author: *Your Name Here*
-Date: *Add Date Here*
+Author: ethereal_utopia 
+Date: 3 Apr 2025
 """
 
 # Install required packages (for Google Colab)
